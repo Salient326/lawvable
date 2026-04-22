@@ -1,10 +1,10 @@
 ---
-name: contract-review-anthropic
-description: Review contracts against your organization's negotiation playbook, flagging deviations and generating redline suggestions. Use when reviewing vendor contracts, customer agreements, or any commercial agreement where you need clause-by-clause analysis against standard positions.
-metadata:
-  author: Anthropic
-  license: Apache-2.0
-  version: 2026.01.30
+名字: contract-review-anthropic
+描述: 依据贵组织的谈判手册审查合同，自动标记偏离之处，并生成修订建议。适用于审查供应商合同、客户协议，或任何需要逐条对照标准立场进行分析的商业协议。
+元数据:
+  作者: Anthropic
+  许可证: Apache-2.0
+  版本: 2026.01.30
 ---
 
 # Contract Review Skill
